@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Isaline Framework logo" src="/docs/assets/isabanner.jpg" height="128">
+    <img alt="Isaline Framework logo" src="/docs/assets/isabanner.png" height="128">
     <h1 align="center">Isaline Agent Framework</h1>
 </p>
 
