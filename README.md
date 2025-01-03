@@ -1,17 +1,17 @@
 <p align="center">
     <img alt="Isaline Framework logo" src="/docs/assets/isabanner.png" height="128">
-    <h1 align="center">Isaline Agent Framework</h1>
+    <h1 align="center">Isalyne Agent Framework</h1>
 </p>
 
 <p align="center">
   <!-- Twitter Badge -->
-  <a href="https://twitter.com/Isalineai">
-    <img src="https://img.shields.io/twitter/follow/Isalineai?style=social" alt="Twitter Follow"/>
+  <a href="https://twitter.com/isalyneai">
+    <img src="https://img.shields.io/twitter/follow/isalyneai?style=social" alt="Twitter Follow"/>
   </a>
 </p>
 
 
-The Isaline Agent Framework makes it easy to build scalable agent-based workflows with your model of choice. The framework is Isaline designed to perform robustly with [IBM Granite](https://www.ibm.com/granite/docs/) and [Llama 3.x](https://ai.meta.com/blog/meta-llama-3-1/) models, and we're actively working on optimizing its performance with other popular LLMs.<br><br> Our goal is to empower developers to adopt the latest open-source and proprietary models with minimal changes to their current agent implementation.
+The Isalyne Agent Framework makes it easy to build scalable agent-based workflows with your model of choice. The framework is Isalyne designed to perform robustly with [IBM Granite](https://www.ibm.com/granite/docs/) and [Llama 3.x](https://ai.meta.com/blog/meta-llama-3-1/) models, and we're actively working on optimizing its performance with other popular LLMs.<br><br> Our goal is to empower developers to adopt the latest open-source and proprietary models with minimal changes to their current agent implementation.
 
 ## Key Features
 
